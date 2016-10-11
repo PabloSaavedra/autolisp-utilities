@@ -2,7 +2,7 @@
 ;;;    BlockAlign.lsp
 ;;;    Version 0.02
 ;;;    
-;;;    Copyright 2006 by Pablo Saavedra.
+;;;    ©2006 Pablo Saavedra López
 ;;;
 ;;;============================================================================
 ;;;
